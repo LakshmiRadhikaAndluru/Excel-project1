@@ -1,0 +1,150 @@
+Project Title
+
+ Sales Data Dashboard using Excel
+
+Project Objective
+
+The main goal of this project is to analyze sales and profit performance using an interactive Excel dashboard.
+It helps users quickly understand:
+
+Which states generate the highest profit
+Which cities perform best
+Which products are least profitable
+Most used shipment mode
+Sales trends based on customer segment, category, and ship mode
+
+This dashboard supports business decision-making by turning raw sales data into easy visual insights.
+
+Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Conditional Formatting
+Data Cleaning
+Dashboard Design
+Dataset Used
+
+This project uses a sales dataset containing fields like:
+
+Order ID
+Customer Segment
+Product Category
+Product Name
+State
+City
+Ship Mode
+Sales
+Profit
+Quantity
+Returns
+Dashboard Components
+
+Your dashboard contains 4 major visual sections:
+
+1) Shipment Mode Analysis
+Chart Type:
+
+Pie Chart
+
+Purpose:
+
+Shows the distribution of shipment methods.
+
+Insights:
+Regular Air is used the most
+Express Air and Delivery Truck are used less
+Helps logistics teams optimize shipping cost
+2) Top 5 Profitable States
+Chart Type:
+
+Horizontal Bar Chart
+
+Purpose:
+
+Displays the top-performing states based on total profit.
+
+States shown:
+Pennsylvania
+Florida
+Wisconsin
+Iowa
+California
+Business Use:
+
+Helps identify strong-performing markets.
+
+3) Top 3 Least Profitable Products
+Chart Type:
+
+Horizontal Bar Chart
+
+Purpose:
+
+Shows products generating losses or very low profit.
+
+Business Use:
+Helps identify poor-performing products
+Useful for pricing decisions
+Helps reduce inventory waste
+4) Top 10 Most Profitable Cities
+Chart Type:
+
+Column Chart
+
+Purpose:
+
+Displays cities generating the highest profits.
+
+Business Use:
+Identifies top revenue zones
+Helps in regional sales strategy
+Supports expansion planning
+Interactive Filters (Slicers)
+
+The right side slicers make the dashboard fully interactive.
+
+Filters Included:
+Customer Segment
+Product Category
+Ship Mode
+Example:
+
+You selected:
+
+Small Business
+Office Supplies
+Express Air
+
+So the charts instantly update for that specific selection.
+
+This makes the dashboard dynamic and user-friendly.
+
+Sheets Used in Workbook
+
+Your workbook includes multiple sheets:
+
+Shipment mode
+Top 3
+Top 5
+Orders
+Returns
+Users
+Dashboard
+
+This shows good project structure and proper data separation.
+
+Skills Demonstrated
+
+This project proves your skills in:
+
+Data Cleaning
+Data Analysis
+Dashboard Building
+Pivot Tables
+Slicer Linking
+Business Insights
+Data Visualization
+KPI Reporting
+
+These are highly useful for Data Analyst roles.
